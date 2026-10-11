@@ -1,0 +1,15 @@
+{
+  "name": "easyday",
+  "version": "1.0.0",
+  "description": "광고 없는 개인용 날짜 카운터 앱 (아이·나·친구·기념일 / 달력 메모 / 공휴일 / 문자 연동 / 시크릿).",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "korean-lunar-calendar": "^0.4.0"
+  }
+}
